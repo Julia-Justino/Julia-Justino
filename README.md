@@ -1,5 +1,5 @@
-#Prazer, sou Julia Justino.
-## ** Seja bem - vindo.**
+#Prazer, sou Julia Justino.#
+## * Seja bem - vindo.*
 ## Sobre mim.
 
 Olá, eu sou Stephany Julia de Oliveira Justino mas pode me chamar de Julia. Desde que me entendo por gente, sempre gostei de criar e aprender coisas novas. Quando novos desafios me apareceram decidi me apoiar nos estudos e assim acabei passando na ETEC (Escola Tecnica Estadual) e iniciei o ensino médio integrado ao técnico de Desenvolvimento de Sistemas.
