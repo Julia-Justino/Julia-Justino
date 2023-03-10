@@ -2,7 +2,7 @@
 ##   Seja bem - vindo. 
 ## Sobre mim.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaOJustino)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinoOJustino&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaOJustino&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaOJustino)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="txtp">
