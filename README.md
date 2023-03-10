@@ -2,7 +2,7 @@
 ##   Seja bem - vindo. 
 ## Sobre mim.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaOJustino&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaOJustino_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaOJustino&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <div id="txtp">
     Olá, eu sou Stephany Julia de Oliveira Justino mas pode me chamar de Julia. Desde que me entendo por gente, sempre gostei de criar e aprender coisas novas. Quando novos desafios me apareceram decidi me apoiar nos estudos e assim acabei passando na ETEC (Escola Tecnica Estadual) e iniciei o ensino médio integrado ao técnico de Desenvolvimento de Sistemas.
