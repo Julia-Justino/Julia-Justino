@@ -11,7 +11,7 @@
   
   ## Minha atividade no github
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaOJustino&show_icons=true&theme=dracula)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaOJustino&ount_private=trueshow_icons=true&theme=dracula)
  
  ## Linguagens
  
