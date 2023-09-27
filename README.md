@@ -10,14 +10,14 @@
   </div>
   
   ## Minha atividade no github
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaOJustino&ount_private=trueshow_icons=true&theme=dracula)
- 
- ## Linguagens
- 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaOJustino&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+ <div align="center">
+  <a href="https://github.com/JuliaOJustino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaOJustino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaOJustino&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
   ## Estou estudando:
 ![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
