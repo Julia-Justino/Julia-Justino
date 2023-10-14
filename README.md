@@ -56,11 +56,11 @@ console.log("Olá, sou Julia Justino. -  👩🏻‍💻 ")
 <br>
 
 ## Minhas missões 🚀
-- [ ] Estudar 📚.
-- [ ] Se dedicar ▶️.
-- [ ] Praticar 🖖.
-- [ ] Aprender 📖.
-- [ ] Evoluir⭐.
+- [x] Estudar 📚.
+- [x] Se dedicar ▶️.
+- [x] Praticar 🖖.
+- [x] Aprender 📖.
+- [x] Evoluir⭐.
       
 <div align=center>
   <h2><b>📍 Profile Visitor Count</b></h2>
