@@ -63,7 +63,7 @@ console.log("Olá, sou Julia Justino. -  👩🏻‍💻 ")
 - [x] Evoluir⭐.
       
 <div align=center>
-  <h2><b>📍 Profile Visitor Count</b></h2>
+  <h2><b>📍 Quantidade de visitas </b></h2>
 </div>
     
 <p align="center" >   
