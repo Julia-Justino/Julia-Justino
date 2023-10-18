@@ -59,7 +59,7 @@ Desenvolvedor JuliaOJustino = new Desenvolvedor(
 <br>
 
 <div align="left">
-    <img src="fo.png" min-width="100px" width="100px" align="right">
+    <img src="fo.png" min-width="150px" width="250px" align="right">
   
   ## Minhas missões 🚀
 - [x] Estudar 📚.
