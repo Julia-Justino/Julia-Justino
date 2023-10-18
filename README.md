@@ -6,15 +6,15 @@
   
 <div>
   
-  ```js
-import Desenvolvedor from "JuliaOJustino";
+  ```java
+Desenvolvedor JuliaOJustino = new Desenvolvedor(
 
-class SobreMim extends Desenvolvedor {
-  nome = "Julia Justino";
-  curso = "Ciências da computação";
-  local = "São Paulo, SP";
-}
-console.log("Olá, sou Julia Justino. -  👩🏻‍💻 ")
+      nome = "Julia Justino",
+      curso = "Ciências da computação",
+      local = "São Paulo - SP"
+);
+
+ System.out.println("Olá, sou Julia Justino. -  👩🏻‍💻 ")
 ```
 </div>
 
