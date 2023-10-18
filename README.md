@@ -71,7 +71,7 @@ Desenvolvedor JuliaOJustino = new Desenvolvedor(
 <div align="right">
   
 </div>
-      
+<br>
 <div align=center>
   <h2><b>📍 Quantidade de visitas </b></h2>
 </div>
