@@ -9,7 +9,7 @@
 <div>
   
   ```java
-Desenvolvedor JuliaOJustino = new Desenvolvedor(
+Desenvolvedor JuliaJustino = new Desenvolvedor(
 
       nome = "Julia Justino",
       curso = "Ciências da computação",
