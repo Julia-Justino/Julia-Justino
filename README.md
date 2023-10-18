@@ -1,9 +1,11 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F072D5&height=120&section=header"/>
 <div align="center">
-  
-  # Seja bem - vindo.👋
+
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&_color=FFFFFF&size=55&center=true&vCenter=true&pause=1000&repeat=false&width=1000&lines=Olá,+seja+bem+-+vindo+!👋+:%29)](https://git.io/typing-svg)
+ 
   </div>
-  
+  <br>
 <div>
   
   ```java
@@ -43,9 +45,10 @@ Desenvolvedor JuliaOJustino = new Desenvolvedor(
 <code><img height="32" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></code>
 </div>
 
-
+<br>
   
 ## Minha atividade no github
+<br>
  <div align="center">
   <a href="https://github.com/JuliaOJustino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaOJustino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -70,5 +73,5 @@ Desenvolvedor JuliaOJustino = new Desenvolvedor(
   <img src="https://profile-counter.glitch.me/JuliaOJustino/count.svg" />  
 </p>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F072D5&height=120&section=footer"/>
           
