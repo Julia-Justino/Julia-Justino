@@ -58,12 +58,19 @@ Desenvolvedor JuliaOJustino = new Desenvolvedor(
 
 <br>
 
-## Minhas missões 🚀
+<div align="left">
+    <img src="fo.png" min-width="100px" width="100px" align="right">
+  
+  ## Minhas missões 🚀
 - [x] Estudar 📚.
 - [x] Se dedicar ▶️.
 - [x] Praticar 🖖.
 - [x] Aprender 📖.
 - [x] Evoluir⭐.
+</div>
+<div align="right">
+  
+</div>
       
 <div align=center>
   <h2><b>📍 Quantidade de visitas </b></h2>
