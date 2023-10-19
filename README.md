@@ -77,7 +77,7 @@ Desenvolvedor JuliaJustino = new Desenvolvedor(
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/JuliaOJustino/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Julia-Justino/count.svg" />  
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F072D5&height=120&section=footer"/>
